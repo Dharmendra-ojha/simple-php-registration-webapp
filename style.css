@@ -1,0 +1,31 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.container{
+  align-text: center;
+  margin: 20px;
+  padding: 23px;
+  border-radius: 20px;
+  background-color: rgba(249,161,243,0.377);
+}
+
+.container h1{
+  color:blue;
+  font-family: Verdana;
+}
+
+input, textarea ,button{
+  margin:5px;
+  background-color: white;
+  border-radius: 10px;
+  font-size: 20px;
+  
+  padding: 10px;
+  border-color:black;
+}
+
+.submitmsg{
+  color: green
+}
